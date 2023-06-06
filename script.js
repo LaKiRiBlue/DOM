@@ -13,3 +13,4 @@ for (let i = 0; i< bodyElement.length; i++) {
   console.log(bodyElement[i]);
   
 }
+ let string = 4
